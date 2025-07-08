@@ -73,6 +73,11 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+Build
 Content
 **/BlackAlder
 **/Landscape
@@ -80,3 +85,15 @@ Content
 **/Megascans
 **/StarterContent
 **/Assets
+
+
+.vscode
+.vs
+*.VC.db
+*.opensdf
+*.opendb
+*.sdf
+*.sln
+*.suo
+*.xcodeproj
+*.xcworkspace
